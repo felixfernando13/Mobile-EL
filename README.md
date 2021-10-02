@@ -1,2 +1,2 @@
-# Mobile-EL di master
+# Mobile-EL
 
